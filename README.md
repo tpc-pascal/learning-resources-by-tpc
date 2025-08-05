@@ -1,6 +1,6 @@
 # LIST OF LEARNING RESOURCES
 
-Danh sách (có lẽ chưa đầy đủ lắm) về các tài liệu ở tất cả lĩnh vực của Conputer Science và Information Technology.
+Danh sách (có lẽ chưa đầy đủ lắm) về các tài liệu ở tất cả lĩnh vực của Computer Science và Information Technology.
 
 ## Giải những bài toán
 
@@ -47,11 +47,6 @@ Danh sách (có lẽ chưa đầy đủ lắm) về các tài liệu ở tất c
 - [AGripOnGit](https://agripongit.vincenttunru.com): 
 - [OhMyGit](https://ohmygit.org): 
 
-### Web development
-
-- [IECEdu](https://iecedu.vn): 
-- [TheOdinProject](https://www.theodinproject.com): Chỉ đường đến master lập trình web.
-
 ### Fun to learn
 
 - [Mimo](https://mimo.org): Các visual tutorials và short quizzes liên quan đến lập trình.
@@ -84,6 +79,8 @@ Danh sách (có lẽ chưa đầy đủ lắm) về các tài liệu ở tất c
 
 ## Con đường đến thành công
 
+- [IECEdu](https://iecedu.vn): 
+- [TheOdinProject](https://www.theodinproject.com): Chỉ đường đến master lập trình web.
 - [RoadMap](https://roadmap.sh): Lộ trình của tất cả các lĩnh vực của CS.
 
 ## MORE RESOURCES COMING SOON !
