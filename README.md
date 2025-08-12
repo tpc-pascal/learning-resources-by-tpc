@@ -22,12 +22,12 @@ Danh sách (có lẽ chưa đầy đủ lắm) về các tài liệu ở tất c
 ### Algorithms
 
 - [AlgoMap](https://algomap.io): Học theo các chủ đề và làm bài tập liên quan.
-- [Visualgo](https://visualgo.net): Minh hoạ cấu trúc dữ liệu và thuật toán bằng hình ảnh.
+- [Visualgo](https://visualgo.net): Minh họa cấu trúc dữ liệu và thuật toán bằng hình ảnh.
 
 ### Python
 
 - [HocPython](https://hocpython.org): Các bài học nhỏ về tính năng, đặc điểm của Python.
-- [PythonTutor](https://pythontutor.com): 
+- [PythonTutor](https://pythontutor.com): Giải thích và miêu tả code trực quan
 
 ### C++
 
