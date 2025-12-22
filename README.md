@@ -2,6 +2,10 @@
 
 Danh sách (có lẽ chưa đầy đủ lắm) về các tài liệu ở tất cả lĩnh vực của Computer Science và Information Technology.
 
+![About This Mac Screenshot](learning-resources-by-tpc.png)
+
+---
+
 ## Giải những bài toán
 
 - [LuyenCode](https://luyencode.net): Các bài toán thuộc đề thi Tin học ở các trường đại học ngành Công nghệ thông tin và Khoa học máy tính.
