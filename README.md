@@ -6,6 +6,17 @@ Danh sách (có lẽ chưa đầy đủ lắm) về các tài liệu ở tất c
 
 ---
 
+## 🎉 Tác giả
+
+[![Contributors](https://contributors-img.web.app/image?repo=tpc-pascal/Smart-Parking-System)](https://github.com/tpc-pascal/Smart-Parking-System/graphs/contributors)
+<details open>
+<summary><b>🔍 Các thành viên</b></summary>
+
+| STT | Tên | Vai trò |
+|:---:|:---|:---|
+| 1 | [tpc-pascal](https://github.com/tpc-pascal) | Vận động trí não giải bài toán khó |
+</details>
+
 ## Giải những bài toán
 
 - [LuyenCode](https://luyencode.net): Các bài toán thuộc đề thi Tin học ở các trường đại học ngành Công nghệ thông tin và Khoa học máy tính.
